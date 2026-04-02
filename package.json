@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-zappatos",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Zappatos de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-zappatos",
+    "voucher-zappatos",
+    "cupon-zappatos",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/zappatos.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-zappatos.git"
+  }
+}
